@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.js": "/Performance/static/js/main.644fbf5b.js",
+    "main.js": "/Performance/static/js/main.82985ffe.js",
     "static/js/651.0d463f38.chunk.js": "/Performance/static/js/651.0d463f38.chunk.js",
-    "static/js/16.f810a83a.chunk.js": "/Performance/static/js/16.f810a83a.chunk.js",
+    "static/js/16.66f1ff71.chunk.js": "/Performance/static/js/16.66f1ff71.chunk.js",
     "static/css/105.b5e28d91.chunk.css": "/Performance/static/css/105.b5e28d91.chunk.css",
-    "static/js/105.7a94c1fb.chunk.js": "/Performance/static/js/105.7a94c1fb.chunk.js",
+    "static/js/105.87e8975a.chunk.js": "/Performance/static/js/105.87e8975a.chunk.js",
     "static/js/240.c17d0c88.chunk.js": "/Performance/static/js/240.c17d0c88.chunk.js",
     "static/js/787.9dd48fc2.chunk.js": "/Performance/static/js/787.9dd48fc2.chunk.js",
     "static/js/879.becb1af3.chunk.js": "/Performance/static/js/879.becb1af3.chunk.js",
     "static/js/870.26f62923.chunk.js": "/Performance/static/js/870.26f62923.chunk.js",
     "static/js/260.1df7c7fe.chunk.js": "/Performance/static/js/260.1df7c7fe.chunk.js",
     "index.html": "/Performance/index.html",
-    "main.644fbf5b.js.map": "/Performance/static/js/main.644fbf5b.js.map",
+    "main.82985ffe.js.map": "/Performance/static/js/main.82985ffe.js.map",
     "651.0d463f38.chunk.js.map": "/Performance/static/js/651.0d463f38.chunk.js.map",
-    "16.f810a83a.chunk.js.map": "/Performance/static/js/16.f810a83a.chunk.js.map",
+    "16.66f1ff71.chunk.js.map": "/Performance/static/js/16.66f1ff71.chunk.js.map",
     "105.b5e28d91.chunk.css.map": "/Performance/static/css/105.b5e28d91.chunk.css.map",
-    "105.7a94c1fb.chunk.js.map": "/Performance/static/js/105.7a94c1fb.chunk.js.map",
+    "105.87e8975a.chunk.js.map": "/Performance/static/js/105.87e8975a.chunk.js.map",
     "240.c17d0c88.chunk.js.map": "/Performance/static/js/240.c17d0c88.chunk.js.map",
     "787.9dd48fc2.chunk.js.map": "/Performance/static/js/787.9dd48fc2.chunk.js.map",
     "879.becb1af3.chunk.js.map": "/Performance/static/js/879.becb1af3.chunk.js.map",
@@ -23,6 +23,6 @@
     "260.1df7c7fe.chunk.js.map": "/Performance/static/js/260.1df7c7fe.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.644fbf5b.js"
+    "static/js/main.82985ffe.js"
   ]
 }
